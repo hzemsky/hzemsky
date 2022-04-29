@@ -1,5 +1,7 @@
 @hzemsky
+
 Holden Haruki Zemsky (Haru)
+
 Undergraduate at DePaul studying Computer Science (Game Systems)
 
 Welcome to my Github.
