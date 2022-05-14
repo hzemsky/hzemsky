@@ -1,7 +1,7 @@
 @hzemsky
 Welcome!
 
-Page: <hzemsky.github.io>
+Page: [hzemsky.github.io]
 
 Contact: <haruzemsky@gmail.com>
 
