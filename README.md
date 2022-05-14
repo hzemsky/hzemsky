@@ -1,8 +1,8 @@
 @hzemsky
-Welcome to my Github.
+Welcome!
 
-Contact:
-  - haruzemsky@gmail.com
+Page: hzemsky.github.io
+Contact: <haruzemsky@gmail.com>
 
 <!---
 hzemsky/hzemsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
