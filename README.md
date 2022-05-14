@@ -1,4 +1,3 @@
-@hzemsky
 Welcome!
 
 Page: [hzemsky.github.io](hzemsky.github.io)
