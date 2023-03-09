@@ -9,6 +9,7 @@ I'm Haru Zemsky, an Undergraduate Computer Science Student (Game Systems Concent
 I expect to graduate in 2024, and I hope to find a career as an Engine or Graphics programmer.
 
 Some projects which I am proud of:
-- Ketchup Engine
+- Ketchup Engine (Documentation: https://z3msky.github.io/KetchupDocs/)
+  - Ketchup is a 3D game engine that I'm working on while an undergraduate at DePaul.
 
 Contact: <haruzemsky@gmail.com>
