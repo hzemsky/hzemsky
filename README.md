@@ -7,4 +7,4 @@ Welcome to my GitHub!
 
 see my website at z3msky.github.io
 
-Contact: <haruzemsky@gmail.com>
+Hire me: hire.haruzemsky@gmail.com
