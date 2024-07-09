@@ -5,6 +5,6 @@ You can click the Preview link to take a look at your changes.
 
 Welcome to my GitHub!
 
-see my website at <z3msky.github.io>
+see my website at z3msky.github.io
 
 Contact: <haruzemsky@gmail.com>
